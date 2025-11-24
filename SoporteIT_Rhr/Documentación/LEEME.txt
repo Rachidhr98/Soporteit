@@ -1,0 +1,150 @@
+LEEME - SoporteIT
+
+Autor: Rachid Harkaoui Rabhi
+
+Descripcion:
+SoporteIT es una herramienta creada para facilitar el trabajo diario de los tecnicos que realizan soporte informatico tanto in situ como en remoto. Permite diagnosticar, mantener y generar informes completos de equipos Windows de forma rapida, clara y ordenada.
+
+El objetivo es reducir tiempos de intervencion, estandarizar tareas y obtener informacion precisa del estado del equipo sin depender de multiples comandos o herramientas externas.
+
+-----------------------------------------------------------
+1. Estructura del proyecto
+-----------------------------------------------------------
+
+SoporteIT\
+│  SoporteIT.ps1
+│  soporteit.log
+└── Modulos\
+       base.psm1
+       info.psm1
+       mantenimiento.psm1
+       reparacion.psm1
+       red.psm1
+       diagnostico.psm1
+       informe.psm1
+
+Cada modulo esta separado para facilitar el mantenimiento, las ampliaciones y las actualizaciones.
+
+-----------------------------------------------------------
+2. Funcionamiento general
+-----------------------------------------------------------
+
+Al ejecutar SoporteIT.ps1, la herramienta comprueba si se dispone de permisos de administrador.
+
+Si el usuario no tiene permisos, se ofrece:
+
+1) Relanzar el script como administrador.
+2) Continuar en modo solo lectura.
+
+En modo solo lectura se pueden hacer consultas y diagnosticos, pero se bloquean las operaciones que modifican el sistema.
+
+-----------------------------------------------------------
+3. Descripcion de cada modulo
+-----------------------------------------------------------
+
+BASE.PSM1
+Modulo principal que controla el menu, registro de acciones y navegacion entre modulos.
+
+INFO.PSM1 – Ficha del equipo
+Muestra informacion general del sistema:
+- Datos del sistema operativo
+- Fabricante, modelo, dominio
+- CPU, RAM
+- Almacenamiento
+- Red basica
+- Resumen rapido para tickets
+
+MANTENIMIENTO.PSM1 – Mantenimiento general
+Incluye tareas habituales:
+- Limpiar temporales de usuario
+- Limpiar temporales del sistema
+- Limpiar cache de navegadores
+- Vaciar papelera
+- Liberacion de espacio rapida
+- Optimizar discos
+- Abrir Windows Update
+- Puesta a punto completa
+
+REPARACION.PSM1 – Reparacion de Windows
+Acciones de reparacion:
+- SFC
+- DISM
+- Reparacion de Windows Update
+- Restauracion de ajustes basicos
+- Programar CHKDSK
+- Reparacion completa
+
+RED.PSM1 – Conectividad y red
+Diagnostico y reparacion de red:
+- Informacion del adaptador
+- Renovacion completa de IP/DNS
+- Restablecimiento de red
+- Reiniciar adaptadores
+- Ver conexiones activas
+- Resumen de red
+
+DIAGNOSTICO.PSM1 – Analisis avanzado
+Permite revisar:
+- Programas instalados
+- Carga de CPU y RAM
+- Errores recientes del sistema y aplicacion
+- Apagados no controlados
+- Estado de discos
+- Servicios automaticos detenidos
+
+INFORME.PSM1 – Informe HTML completo
+Genera un informe detallado con:
+- Sistema
+- Hardware
+- Almacenamiento
+- Red
+- Eventos criticos
+- Servicios anormales
+- Programas instalados
+
+-----------------------------------------------------------
+4. Registro de intervenciones
+-----------------------------------------------------------
+
+El archivo soporteit.log guarda:
+- Fecha y hora
+- Equipo
+- Accion realizada
+
+Sirve para trazabilidad y documentacion tecnica.
+
+-----------------------------------------------------------
+5. Compatibilidad
+-----------------------------------------------------------
+
+Compatible con:
+- Windows 10
+- Windows 11
+- PowerShell 5.1 (incluido de serie)
+
+No requiere instalaciones adicionales.
+
+-----------------------------------------------------------
+6. Uso recomendado
+-----------------------------------------------------------
+
+1) Ejecutar con permisos de administrador cuando sea posible.
+2) Revisar primero la ficha del equipo.
+3) Ejecutar mantenimiento en caso de lentitud o falta de espacio.
+4) Usar reparacion para errores de Windows.
+5) Usar el modulo de red para incidencias de conectividad.
+6) Generar un informe HTML al finalizar la intervencion.
+
+-----------------------------------------------------------
+7. Objetivo general
+-----------------------------------------------------------
+
+SoporteIT permite a cualquier tecnico:
+
+- Trabajar mas rapido
+- Reducir tiempos de resolucion
+- Establecer un metodo de trabajo estandar
+- Obtener informacion fiable
+- Documentar intervenciones automaticamente
+
+Es una herramienta practica para soporte informatico en oficinas y trabajo de campo.
