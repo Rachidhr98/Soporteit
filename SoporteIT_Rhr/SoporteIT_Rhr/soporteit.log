@@ -1,0 +1,148 @@
+2025-11-24 10:47:43 [INFO] [SOPORTEIT] Inicio de SoporteIT
+2025-11-24 10:47:48 [INFO] [SOPORTEIT] Acceso a Ficha del equipo
+2025-11-24 10:47:55 [INFO] [SOPORTEIT] Consulta de datos generales del sistema
+2025-11-24 10:50:58 [INFO] [SOPORTEIT] Acceso a Mantenimiento
+2025-11-24 10:51:00 [INFO] [SOPORTEIT] Limpieza de temporales de usuario
+2025-11-24 10:51:05 [INFO] [SOPORTEIT] Limpieza de temporales de sistema
+2025-11-24 10:51:55 [INFO] [SOPORTEIT] Vaciado de Papelera de reciclaje
+2025-11-24 11:09:17 [INFO] [SOPORTEIT] Inicio de SoporteIT
+2025-11-24 11:10:00 [INFO] [SOPORTEIT] Inicio de SoporteIT
+2025-11-24 11:10:02 [INFO] [SOPORTEIT] Acceso a Ficha del equipo
+2025-11-24 11:10:05 [INFO] [SOPORTEIT] Consulta de datos generales del sistema
+2025-11-24 11:10:15 [INFO] [SOPORTEIT] Salida de SoporteIT
+2025-11-24 11:10:40 [INFO] [SOPORTEIT] Inicio de SoporteIT
+2025-11-24 11:10:41 [INFO] [SOPORTEIT] Acceso a Ficha del equipo
+2025-11-24 11:10:44 [INFO] [SOPORTEIT] Consulta de informacion de red basica
+2025-11-24 11:11:16 [INFO] [SOPORTEIT] Inicio de SoporteIT
+2025-11-24 11:11:19 [INFO] [SOPORTEIT] Acceso a Ficha del equipo
+2025-11-24 11:11:22 [INFO] [SOPORTEIT] Consulta de datos generales del sistema
+2025-11-24 11:11:38 [INFO] [SOPORTEIT] Generacion de informe completo solicitada
+2025-11-24 11:11:38 [INFO] [SOPORTEIT] Generacion de informe HTML completa iniciada
+2025-11-24 11:11:51 [INFO] [SOPORTEIT] Informe HTML generado en D:\IT_RHR\SoporteIT_Rhr\Informe_SoporteIT_SOPORTEIT_20251124_111151.html
+2025-11-24 11:12:15 [INFO] [SOPORTEIT] Acceso a Mantenimiento
+2025-11-24 11:12:18 [INFO] [SOPORTEIT] Limpieza de temporales de usuario
+2025-11-24 11:12:22 [INFO] [SOPORTEIT] Limpieza de temporales de sistema
+2025-11-24 11:12:25 [INFO] [SOPORTEIT] Limpieza de cache de navegadores
+2025-11-24 11:12:30 [INFO] [SOPORTEIT] Busqueda de actualizaciones de Windows
+2025-11-24 12:16:04 [INFO] [SOPORTEIT] Inicio de SoporteIT
+2025-11-24 12:16:08 [INFO] [SOPORTEIT] Acceso a Diagnostico avanzado
+2025-11-24 12:16:13 [INFO] [SOPORTEIT] Consulta de carga de sistema
+2025-11-24 12:16:33 [INFO] [SOPORTEIT] Salida de SoporteIT
+2025-11-24 12:21:42 [INFO] [SOPORTEIT] Inicio de SoporteIT
+2025-11-24 12:21:46 [INFO] [SOPORTEIT] Acceso a Mantenimiento
+2025-11-24 12:22:01 [INFO] [SOPORTEIT] Consulta del registro de intervenciones
+2025-11-24 12:22:08 [INFO] [SOPORTEIT] Acceso a Ficha del equipo
+2025-11-24 12:22:13 [INFO] [SOPORTEIT] Generacion de resumen para ficha de ticket
+2025-11-24 12:22:42 [INFO] [SOPORTEIT] Acceso a Red y conectividad
+2025-11-24 12:22:47 [INFO] [SOPORTEIT] Renovacion de configuracion IP y DNS
+2025-11-26 09:23:49 [INFO] [SOPORTEIT] Inicio de SoporteIT
+2025-11-26 09:24:00 [INFO] [SOPORTEIT] Acceso a Ficha del equipo
+2025-11-26 09:24:06 [INFO] [SOPORTEIT] Generacion de informe completo solicitada
+2025-11-26 09:24:06 [INFO] [SOPORTEIT] Generacion de informe HTML completa iniciada
+2025-11-26 09:24:24 [INFO] [SOPORTEIT] Informe HTML generado en C:\Users\rhr\OneDrive - HACIENDASBIO S.A\Escritorio\SoporteIT_Rhr\Informe_SoporteIT_SOPORTEIT_20251126_092424.html
+2025-12-01 13:29:54 [INFO] [SOPORTEIT] Logs RDP
+2025-12-01 13:30:11 [INFO] [SOPORTEIT] Busqueda Admin Ocultos
+2025-12-01 13:30:33 [INFO] [SOPORTEIT] Analisis Forense
+2025-12-01 13:31:33 [INFO] [SOPORTEIT] Historial USB
+2025-12-01 13:32:05 [INFO] [SOPORTEIT] Analisis Forense
+2025-12-01 13:32:23 [INFO] [SOPORTEIT] Generacion de informe completo solicitada
+2025-12-01 13:32:23 [INFO] [SOPORTEIT] Generando informe HTML con Estilos
+2025-12-01 13:32:39 [INFO] [SOPORTEIT] Generacion de informe completo solicitada
+2025-12-01 13:32:39 [INFO] [SOPORTEIT] Generando informe HTML con Estilos
+2025-12-01 13:37:44 [INFO] [SOPORTEIT] Generacion de informe completo solicitada
+2025-12-01 13:37:44 [INFO] [SOPORTEIT] Generando informe HTML completo con Estilos
+2025-12-01 16:15:20 [INFO] [SOPORTEIT] Consulta de datos generales del sistema
+2025-12-01 16:15:24 [INFO] [SOPORTEIT] Consulta de hardware principal
+2025-12-01 16:15:39 [INFO] [SOPORTEIT] Generacion de informe completo solicitada
+2025-12-01 16:15:39 [INFO] [SOPORTEIT] Generando informe HTML completo con Estilos
+2025-12-01 16:22:36 [INFO] [SOPORTEIT] Generacion de resumen de red para soporte
+2025-12-01 16:24:07 [INFO] [SOPORTEIT] Consulta del registro de intervenciones
+2025-12-01 16:24:33 [INFO] [SOPORTEIT] Consulta de estado de discos
+2025-12-01 16:24:40 [INFO] [SOPORTEIT] Consulta de servicios en estado anomalo
+2025-12-01 16:25:06 [INFO] [SOPORTEIT] Consulta del registro de intervenciones
+2025-12-01 16:25:17 [INFO] [SOPORTEIT] Consulta de aplicaciones de arranque
+2025-12-01 16:38:57 [INFO] [SOPORTEIT] Consulta de resumen de espacio perdido solicitada
+2025-12-01 16:38:57 [INFO] [SOPORTEIT] Calculo de peso de archivos anómalos (Temporales/Papelera)
+2025-12-01 16:40:31 [INFO] [SOPORTEIT] Consulta de resumen de espacio perdido solicitada
+2025-12-01 16:40:31 [INFO] [SOPORTEIT] Calculo de peso de archivos anómalos (Temporales/Papelera)
+2025-12-01 16:40:35 [INFO] [SOPORTEIT] Limpieza de temporales del usuario
+2025-12-01 16:40:38 [INFO] [SOPORTEIT] Limpieza de temporales del sistema
+2025-12-01 16:40:41 [INFO] [SOPORTEIT] Limpieza de cache de navegadores
+2025-12-01 16:40:45 [INFO] [SOPORTEIT] Consulta de resumen de espacio perdido solicitada
+2025-12-01 16:40:45 [INFO] [SOPORTEIT] Calculo de peso de archivos anómalos (Temporales/Papelera)
+2025-12-01 16:41:03 [INFO] [SOPORTEIT] Limpieza de temporales del usuario
+2025-12-01 16:41:10 [INFO] [SOPORTEIT] Liberacion de espacio rapida iniciada
+2025-12-01 16:41:10 [INFO] [SOPORTEIT] Limpieza de temporales del usuario
+2025-12-01 16:41:10 [INFO] [SOPORTEIT] Limpieza de temporales del sistema
+2025-12-01 16:41:10 [INFO] [SOPORTEIT] Vaciado de Papelera de reciclaje
+2025-12-01 16:41:11 [INFO] [SOPORTEIT] Limpieza de cache de navegadores
+2025-12-01 16:41:15 [INFO] [SOPORTEIT] Consulta de resumen de espacio perdido solicitada
+2025-12-01 16:41:15 [INFO] [SOPORTEIT] Calculo de peso de archivos anómalos (Temporales/Papelera)
+2025-12-01 16:41:27 [INFO] [SOPORTEIT] Generacion de informe completo solicitada
+2025-12-01 16:41:27 [INFO] [SOPORTEIT] Generando informe HTML completo con Estilos
+2025-12-01 16:41:28 [INFO] [SOPORTEIT] Calculo de peso de archivos anómalos (Temporales/Papelera)
+2025-12-01 17:05:59 [INFO] [SOPORTEIT] Generacion de informe completo solicitada
+2025-12-01 17:05:59 [INFO] [SOPORTEIT] Generando informe HTML completo con Estilos
+2025-12-01 17:06:01 [INFO] [SOPORTEIT] Calculo de peso de archivos anómalos (Temporales/Papelera)
+2025-12-01 17:12:18 [INFO] [SOPORTEIT] Generacion de informe completo solicitada
+2025-12-01 17:12:18 [INFO] [SOPORTEIT] Generando informe HTML completo con Estilos
+2025-12-01 17:12:19 [INFO] [SOPORTEIT] Calculo de peso de archivos anómalos (Temporales/Papelera)
+2025-12-01 17:12:59 [INFO] [SOPORTEIT] Generacion de informe completo solicitada
+2025-12-01 17:12:59 [INFO] [SOPORTEIT] Generando informe HTML completo con Estilos
+2025-12-01 17:13:00 [INFO] [SOPORTEIT] Calculo de peso de archivos anómalos (Temporales/Papelera)
+2025-12-01 17:13:38 [INFO] [SOPORTEIT] Consulta de resumen de espacio perdido solicitada
+2025-12-01 17:13:38 [INFO] [SOPORTEIT] Calculo de peso de archivos anómalos (Temporales/Papelera)
+2025-12-01 17:14:26 [INFO] [SOPORTEIT] Generacion de informe completo solicitada
+2025-12-01 17:14:26 [INFO] [SOPORTEIT] Generando informe HTML completo con Estilos
+2025-12-01 17:15:47 [INFO] [SOPORTEIT] Generacion de informe completo solicitada
+2025-12-01 17:15:47 [INFO] [SOPORTEIT] Generando informe HTML completo con Estilos
+2025-12-01 17:15:48 [INFO] [SOPORTEIT] Calculo de peso de archivos anómalos (Temporales/Papelera)
+2025-12-01 17:18:22 [INFO] [SOPORTEIT] Generacion de informe completo solicitada
+2025-12-01 17:18:22 [INFO] [SOPORTEIT] Generando informe HTML completo con Estilos
+2025-12-01 17:18:23 [INFO] [SOPORTEIT] Calculo de peso de archivos anómalos (Temporales/Papelera)
+2025-12-01 17:23:43 [INFO] [SOPORTEIT] Consulta de datos generales del sistema
+2025-12-01 17:23:50 [INFO] [SOPORTEIT] Consulta de hardware principal
+2025-12-01 17:23:55 [INFO] [SOPORTEIT] Consulta de almacenamiento
+2025-12-01 17:24:02 [INFO] [SOPORTEIT] Generacion de informe completo solicitada
+2025-12-01 17:24:02 [INFO] [SOPORTEIT] Generando informe HTML completo con Estilos
+2025-12-01 17:24:02 [INFO] [SOPORTEIT] Calculo de peso de archivos anómalos (Temporales/Papelera)
+2025-12-02 10:18:42 [INFO] [LAPTOP-10A9K09T] Consulta de resumen de espacio perdido solicitada
+2025-12-02 10:18:42 [INFO] [LAPTOP-10A9K09T] Calculo de peso de archivos anómalos (Temporales/Papelera)
+2025-12-02 10:18:53 [INFO] [LAPTOP-10A9K09T] Liberacion de espacio rapida iniciada
+2025-12-02 10:18:53 [INFO] [LAPTOP-10A9K09T] Limpieza de temporales del usuario
+2025-12-02 10:18:53 [INFO] [LAPTOP-10A9K09T] Limpieza de temporales del sistema
+2025-12-02 10:18:53 [INFO] [LAPTOP-10A9K09T] Vaciado de Papelera de reciclaje
+2025-12-02 10:18:53 [INFO] [LAPTOP-10A9K09T] Limpieza de cache de navegadores
+2025-12-02 10:18:58 [INFO] [LAPTOP-10A9K09T] Consulta de resumen de espacio perdido solicitada
+2025-12-02 10:18:58 [INFO] [LAPTOP-10A9K09T] Calculo de peso de archivos anómalos (Temporales/Papelera)
+2025-12-02 10:19:03 [INFO] [LAPTOP-10A9K09T] Busqueda de actualizaciones de Windows
+2025-12-02 10:19:11 [INFO] [LAPTOP-10A9K09T] Vaciado de Papelera de reciclaje
+2025-12-02 10:19:15 [INFO] [LAPTOP-10A9K09T] Limpieza de cache de navegadores
+2025-12-02 10:19:19 [INFO] [LAPTOP-10A9K09T] Limpieza de temporales del sistema
+2025-12-02 10:19:28 [INFO] [LAPTOP-10A9K09T] Generacion de informe completo solicitada
+2025-12-02 10:19:28 [INFO] [LAPTOP-10A9K09T] Generando informe HTML completo con Estilos
+2025-12-02 10:19:29 [INFO] [LAPTOP-10A9K09T] Calculo de peso de archivos anómalos (Temporales/Papelera)
+2025-12-02 10:26:46 [INFO] [DESKTOP-RPEH0MS] Consulta de resumen de espacio perdido solicitada
+2025-12-02 10:26:46 [INFO] [DESKTOP-RPEH0MS] Calculo de peso de archivos anómalos (Temporales/Papelera)
+2025-12-02 10:27:06 [INFO] [DESKTOP-RPEH0MS] Liberacion de espacio rapida iniciada
+2025-12-02 10:27:06 [INFO] [DESKTOP-RPEH0MS] Limpieza de temporales del usuario
+2025-12-02 10:27:06 [INFO] [DESKTOP-RPEH0MS] Limpieza de temporales del sistema
+2025-12-02 10:27:12 [INFO] [DESKTOP-RPEH0MS] Vaciado de Papelera de reciclaje
+2025-12-02 10:27:12 [INFO] [DESKTOP-RPEH0MS] Limpieza de cache de navegadores
+2025-12-02 10:27:29 [INFO] [DESKTOP-RPEH0MS] Busqueda de actualizaciones de Windows
+2025-12-02 10:28:33 [INFO] [DESKTOP-RPEH0MS] Generacion de informe completo solicitada
+2025-12-02 10:28:33 [INFO] [DESKTOP-RPEH0MS] Generando informe HTML completo con Estilos
+2025-12-02 10:28:33 [INFO] [DESKTOP-RPEH0MS] Calculo de peso de archivos anómalos (Temporales/Papelera)
+2026-01-26 11:59:21 [INFO] [PA-RHARKAOUI] Generacion de informe completo solicitada
+2026-01-26 11:59:23 [INFO] [PA-RHARKAOUI] Generando informe HTML completo con Estilos
+2026-01-26 11:59:23 [INFO] [PA-RHARKAOUI] Calculo de peso de archivos anómalos (Temporales/Papelera)
+2026-01-26 12:00:41 [INFO] [PA-RHARKAOUI] Liberacion de espacio rapida iniciada
+2026-01-26 12:00:41 [INFO] [PA-RHARKAOUI] Limpieza de temporales del usuario
+2026-01-26 12:00:42 [INFO] [PA-RHARKAOUI] Limpieza de temporales del sistema
+2026-01-26 12:00:43 [INFO] [PA-RHARKAOUI] Vaciado de Papelera de reciclaje
+2026-01-26 13:05:57 [INFO] [PA-RHARKAOUI] Limpieza de temporales del usuario
+2026-01-26 13:06:14 [INFO] [PA-RHARKAOUI] Generacion de resumen para ficha de ticket
+2026-01-26 13:06:33 [INFO] [PA-RHARKAOUI] Generacion de informe completo solicitada
+2026-01-26 13:06:33 [INFO] [PA-RHARKAOUI] Generando informe HTML completo con Estilos
+2026-01-26 13:06:34 [INFO] [PA-RHARKAOUI] Calculo de peso de archivos anómalos (Temporales/Papelera)
+2026-01-26 13:08:37 [INFO] [PA-RHARKAOUI] Escaneo de red inteligente iniciado
